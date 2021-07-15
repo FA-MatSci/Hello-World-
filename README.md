@@ -10,7 +10,12 @@ The game consists of 10 questions with 4 possible answers. The complexity of que
 Breakdown of the script
 
 Questions 1- 5: **kwargs and @classmethod
+
 Questions 6-7: hasattr()
+
 Questions 8: composition
+
 Question 9: inheritance
+
 Question 10: magic methods
+
