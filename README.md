@@ -1,6 +1,6 @@
 # Hello, World!
 My repository on GitHub.
-This is a repository for the game I made (Who Wants to Be a Millionaire?).
+This is a repository for the game that I made (Who Wants to Be a Millionaire?).
 
 
 Instructions
