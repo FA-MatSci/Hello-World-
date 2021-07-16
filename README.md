@@ -1,5 +1,5 @@
 # The game!
-Game created using Python.
+After the popular TV quiz show, here it is written in Python. 
 
 
 # Instructions
