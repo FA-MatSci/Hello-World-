@@ -1,6 +1,5 @@
 # The game!
 Game created using Python.
-This is a repository for the game that I have created.
 
 
 # Instructions
